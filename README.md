@@ -4,7 +4,7 @@ Desafio consistia em criar um app Android para apresentar seu portfólio de proj
 
 
 # O que o aplicativo faz?
-Vocẽ pode consultar e listar os repositórios de algum usuário do Github.
+ Além da listagem dos repositóriso do seu usuãrio vocẽ também podia consultar e listar os repositórios de algum usuário do Github.
 
 # O que foi usado na construção do Aplicativo?
 - Kotlin

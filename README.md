@@ -13,11 +13,11 @@ Desafio consistia em criar um app Android para apresentar seu portfólio de proj
 - Material Design
 - RecyclerView
 - Adapters 
+- Glide para carregamento de imagens
 - ViewBinding
 - MVVM + CLEAN ARCHITECTURE 
 - Coroutines
 - Injeção de Dependência via Koin
-- Glide para carregamento de imagens
 - Padrões de projeto como Repository com utilização de Interface
 
 
